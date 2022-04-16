@@ -1,8 +1,6 @@
 #by www.youtube.com/OmegaGamerLol
-print (file/LICENSE.md)
 import time
 import random
-import pygame
 time.sleep(5)
 print('*splash*')
 time.sleep(5)
