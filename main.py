@@ -76,7 +76,6 @@ print('Quest unlocked: The Wells basement')
 #Second half
 #declaring varibles for later use
 import time
-import pygame
 import math
 import random
 Monster = random.randint(1, 1000)
